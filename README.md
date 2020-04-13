@@ -1,2 +1,2 @@
 # simple-quote-page
-nauka codeberry
+Ukochana herbata
